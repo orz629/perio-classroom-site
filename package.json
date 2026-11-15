@@ -1,0 +1,23 @@
+{
+  "name": "perio-classroom-site",
+  "version": "1.0.0",
+  "description": "靜態網站，不需要伺服器，之後放 GitHub Pages。",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orz629/perio-classroom-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orz629/perio-classroom-site/issues"
+  },
+  "homepage": "https://github.com/orz629/perio-classroom-site#readme",
+  "devDependencies": {
+    "qrcode": "^1.5.4"
+  }
+}

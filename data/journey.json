@@ -1,0 +1,52 @@
+[
+  {
+    "id": "diagnosed",
+    "name": "我剛被診斷牙周病",
+    "desc": "先了解這是什麼病、接下來要做什麼",
+    "categories": [
+      "treatment"
+    ]
+  },
+  {
+    "id": "in-treatment",
+    "name": "我正在接受治療",
+    "desc": "治療中要注意什麼、回家怎麼清潔",
+    "categories": [
+      "treatment",
+      "homecare"
+    ]
+  },
+  {
+    "id": "surgery",
+    "name": "我剛做完牙周手術",
+    "desc": "回家後怎麼照顧傷口、什麼狀況要聯絡我們",
+    "categories": [
+      "aftercare"
+    ]
+  },
+  {
+    "id": "after",
+    "name": "我已經治療完成",
+    "desc": "怎麼維持治療成果、多久回診一次",
+    "categories": [
+      "aftercare",
+      "homecare"
+    ]
+  },
+  {
+    "id": "risk",
+    "name": "我有糖尿病或抽菸",
+    "desc": "這些情況跟牙周病有什麼關係",
+    "categories": [
+      "systemic"
+    ]
+  },
+  {
+    "id": "implant",
+    "name": "我有植牙或打算植牙",
+    "desc": "植牙前的準備，以及植牙後怎麼維護",
+    "categories": [
+      "implant"
+    ]
+  }
+]

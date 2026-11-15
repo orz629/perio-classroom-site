@@ -1,0 +1,600 @@
+[
+  {
+    "id": "ep01",
+    "no": "01",
+    "title": "牙周治療大解析",
+    "ytTitle": "牙周病怎麼治療？從檢查到維護四階段一次看懂",
+    "category": "treatment",
+    "alsoIn": [],
+    "journey": [
+      "diagnosed",
+      "in-treatment"
+    ],
+    "tags": [
+      "牙周病",
+      "牙齦流血",
+      "牙結石",
+      "四階段治療"
+    ],
+    "summary": "刷牙流血、牙齦紅腫、覺得牙齒好像變長了？這些都可能是牙周病的警訊。這支影片帶您認識牙周病，以及牙周病科怎麼一步一步幫您治療。",
+    "related": [
+      "ep02",
+      "ep03"
+    ],
+    "status": "published",
+    "youtubeId": "reLW8HCXr1Q",
+    "duration": "五分五十秒",
+    "thumb": "assets/thumbs/ep01.jpg",
+    "keyPoints": [
+      "牙周病是慢性病，治好了也可能復發，要長期清潔、定期回診。",
+      "治療需要一段時間，通常要半年以上，醫師都會事先跟您說明。",
+      "您是治療團隊的一員，有任何問題，都歡迎跟醫師討論。"
+    ],
+    "tip": "",
+    "handout": "",
+    "reviewed": "",
+    "references": [
+      {
+        "text": "Löe H, Theilade E, Jensen SB. Experimental gingivitis in man. J Periodontol 1965.",
+        "pmid": "14296927"
+      },
+      {
+        "text": "Löe H, et al. Natural history of periodontal disease in man. J Clin Periodontol 1986.",
+        "pmid": "3487557"
+      },
+      {
+        "text": "Page RC, Kornman KS. The pathogenesis of human periodontitis: an introduction. Periodontol 2000 1997.",
+        "pmid": "9567963"
+      },
+      {
+        "text": "Nyman S, Rosling B, Lindhe J. Effect of professional tooth cleaning on healing after periodontal surgery. J Clin Periodontol 1975.",
+        "pmid": "1094035"
+      },
+      {
+        "text": "Ramfjord SP, et al. Oral hygiene and maintenance of periodontal support. J Periodontol 1982.",
+        "pmid": "6948947"
+      },
+      {
+        "text": "Tomar SL, Asma S. Smoking-attributable periodontitis in the United States. J Periodontol 2000.",
+        "pmid": "10872955"
+      },
+      {
+        "text": "Simpson TC, et al. Treatment of periodontitis for glycaemic control in people with diabetes mellitus. Cochrane Database Syst Rev 2022.",
+        "pmid": "35420698"
+      },
+      {
+        "text": "Tu YK, et al. Direct and indirect effects of interdental hygiene in a clinical trial. J Dent Res 2008.",
+        "pmid": "18946011"
+      },
+      {
+        "text": "Akcalı A, Lang NP. Dental calculus: the calcified biofilm and its role in disease development. Periodontol 2000 2017.",
+        "pmid": "29194797"
+      },
+      {
+        "text": "Tomasi C, Abrahamsson KH, Apatzidou D. Subgingival instrumentation. Periodontol 2000 2023（線上優先刊登，尚無卷期頁碼）.",
+        "pmid": "37162295"
+      },
+      {
+        "text": "Suvan J, et al. Subgingival instrumentation for treatment of periodontitis. J Clin Periodontol 2020.",
+        "pmid": "31889320"
+      },
+      {
+        "text": "Sanz M, et al. Treatment of stage I–III periodontitis — The EFP S3 level clinical practice guideline. J Clin Periodontol 2020.",
+        "pmid": "32383274"
+      },
+      {
+        "text": "Papapanou PN, et al. Periodontitis: Consensus report of workgroup 2 of the 2017 World Workshop. J Clin Periodontol 2018.",
+        "pmid": "29926490"
+      },
+      {
+        "text": "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis. J Clin Periodontol 2018.",
+        "pmid": "29926495"
+      }
+    ]
+  },
+  {
+    "id": "ep02",
+    "no": "02",
+    "title": "牙周手術後的照顧",
+    "ytTitle": "牙周手術後怎麼照顧？疼痛、腫脹、漱口水一次看懂",
+    "category": "aftercare",
+    "alsoIn": [],
+    "journey": [
+      "surgery"
+    ],
+    "tags": [
+      "牙周手術",
+      "傷口照顧",
+      "漱口水",
+      "拆線"
+    ],
+    "summary": "牙周手術後會痛、會腫、有一點血絲，正常嗎？回家以後該怎麼刷牙、漱口、吃東西？這支影片整理牙周手術後的照顧重點。",
+    "related": [
+      "ep01",
+      "ep03"
+    ],
+    "status": "published",
+    "youtubeId": "36jh3fcjLE4",
+    "duration": "五分四十三秒",
+    "thumb": "assets/thumbs/ep02.jpg",
+    "keyPoints": [
+      "疼痛、腫脹、少量滲血，是手術後正常的反應，幾天內會慢慢好轉。",
+      "傷口癒合期間，手術的區域不刷牙、改用漱口水；不摳敷料、不拉扯傷口、不吸菸。",
+      "流血不止、越來越腫、發燒或流膿，請盡快跟我們聯絡。"
+    ],
+    "tip": "",
+    "handout": "",
+    "reviewed": "",
+    "references": [
+      {
+        "text": "Berchier CE, Slot DE, Van der Weijden GA. The efficacy of 0.12% chlorhexidine mouthrinse compared with 0.2% on plaque accumulation and periodontal parameters: a systematic review. J Clin Periodontol 2010;37(9):829-39.",
+        "pmid": "20618550"
+      },
+      {
+        "text": "Sanz M, Newman MG, Anderson L, Matoska W, Otomo-Corgel J, Saltini C. Clinical enhancement of post-periodontal surgical therapy by a 0.12% chlorhexidine gluconate mouthrinse. J Periodontol 1989;60(10):570-6.",
+        "pmid": "2681675"
+      },
+      {
+        "text": "Powell CA, Mealey BL, Deas DE, McDonnell HT, Moritz AJ. Post-surgical infections: prevalence associated with various periodontal surgical procedures. J Periodontol 2005;76(3):329-33.",
+        "pmid": "15857064"
+      },
+      {
+        "text": "Greenstein G, Berman C, Jaffin R. Chlorhexidine. An adjunct to periodontal therapy. J Periodontol 1986;57(6):370-7.",
+        "pmid": "3522851"
+      },
+      {
+        "text": "Jones CG. Chlorhexidine: is it still the gold standard? Periodontol 2000 1997;15:55-62.",
+        "pmid": "9643233"
+      },
+      {
+        "text": "James P, Worthington HV, Parnell C, et al. Chlorhexidine mouthrinse as an adjunctive treatment for gingival health. Cochrane Database Syst Rev 2017;CD008676.",
+        "pmid": "28362061"
+      },
+      {
+        "text": "Polimeni G, Xiropaidis AV, Wikesjö UM. Biology and principles of periodontal wound healing/regeneration. Periodontol 2000 2006;41:30-47.",
+        "pmid": "16686925"
+      },
+      {
+        "text": "Hiatt W, Stallard R, Butler E, Badgett B. Repair following mucoperiosteal flap surgery with full gingival retention. J Periodontol 1968;39(1):11-6.",
+        "pmid": "5244502"
+      },
+      {
+        "text": "Selvig K, Biagiotti G, et al. Oral tissue reactions to suture materials. Int J Periodontics Restorative Dent 1998;18(5):474-87.",
+        "pmid": "10093524"
+      },
+      {
+        "text": "Nyman S, Rosling B, Lindhe J. Effect of professional tooth cleaning on healing after periodontal surgery. J Clin Periodontol 1975;2(2):80-6.",
+        "pmid": "1094035"
+      },
+      {
+        "text": "Ramfjord SP, Morrison EC, Burgett FG, Nissle RR, Shick RA, Zann GJ, Knowles JW. Oral hygiene and maintenance of periodontal support. J Periodontol 1982;53(1):26-30.",
+        "pmid": "6948947"
+      },
+      {
+        "text": "Kaldahl WB, Kalkwarf KL, Patil KD, Molvar MP, Dyer JK. Long-term evaluation of periodontal therapy: I. Response to 4 therapeutic modalities. J Periodontol 1996;67(2):93-102.",
+        "pmid": "8667142"
+      },
+      {
+        "text": "Cortellini P, Tonetti MS. Long-term tooth survival following regenerative treatment of intrabony defects. J Periodontol 2004;75(5):672-8.",
+        "pmid": "15212349"
+      },
+      {
+        "text": "Sanz M, Bäumer A, Buduneli N, et al. Effect of professional mechanical plaque removal on secondary prevention of periodontitis and the complications of gingival and periodontal preventive measures: consensus report of group 4 of the 11th European Workshop on Periodontology. J Clin Periodontol 2015;42 Suppl 16.",
+        "pmid": "25626357"
+      },
+      {
+        "text": "Sanz M, Herrera D, Kebschull M, et al. Treatment of stage I–III periodontitis — The EFP S3 level clinical practice guideline. J Clin Periodontol 2020;47 Suppl 22:4-60.",
+        "pmid": "32383274"
+      },
+      {
+        "text": "Tu YK, Jackson M, Kellett M, Clerehugh. Direct and indirect effects of interdental hygiene in a clinical trial. J Dent Res 2008;87(11):1037-42.",
+        "pmid": "18946011"
+      },
+      {
+        "text": "Mei CC, Lee FY, Yeh HC. Assessment of pain perception following periodontal and implant surgeries. J Clin Periodontol 2016;43(12):1151-1159.",
+        "pmid": "27554366"
+      },
+      {
+        "text": "Curtis JW, McLain JB, Hutchinson RA. The incidence and severity of complications and pain following periodontal surgery. J Periodontol 1985;56(10):597-601.",
+        "pmid": "3863909"
+      },
+      {
+        "text": "Caporossi LS, Dos Santos CS, Calcia TBB, Cenci MS, Muniz FWMG, da Silveira Lima G. Pharmacological management of pain after periodontal surgery: a systematic review with meta-analysis. Clin Oral Investig 2020;24(8):2559-2578.",
+        "pmid": "32572640"
+      },
+      {
+        "text": "Heitz F, Heitz-Mayfield LJ, Lang NP. Effects of post-surgical cleansing protocols on early plaque control in periodontal and/or periimplant wound healing. J Clin Periodontol 2004;31(11):1012-8.",
+        "pmid": "15491319"
+      },
+      {
+        "text": "Kotsakis GA, Javed F, Hinrichs JE, Karoussis IK, Romanos GE. Impact of cigarette smoking on clinical outcomes of periodontal flap surgical procedures: a systematic review and meta-analysis. J Periodontol 2015;86(2):254-63.",
+        "pmid": "25299388"
+      },
+      {
+        "text": "do Nascimento-Júnior EM, Dos Santos GMS, Tavares Mendes ML, Cenci M, Correa MB, Pereira-Cenci T, Martins-Filho PRS. Cryotherapy in reducing pain, trismus, and facial swelling after third-molar surgery: systematic review and meta-analysis of randomized clinical trials. J Am Dent Assoc 2019;150(4):269-277.e1.",
+        "pmid": "30798949"
+      },
+      {
+        "text": "von Troil B, Needleman I, Sanz M. A systematic review of the prevalence of root sensitivity following periodontal therapy. J Clin Periodontol 2002;29 Suppl 3:173-7; discussion 195-6.",
+        "pmid": "12787217"
+      },
+      {
+        "text": "Soheilifar S, Bidgoli M, Faradmal J, Soheilifar S. Effect of periodontal dressing on wound healing and patient satisfaction following periodontal flap surgery. J Dent (Tehran) 2015;12(2):151-6.",
+        "pmid": "26056525"
+      },
+      {
+        "text": "Cheshire PD, Griffiths GS, Griffiths BM, Newman HN. Evaluation of the healing response following placement of Coe-pak and an experimental pack after periodontal flap surgery. J Clin Periodontol 1996;23(3 Pt 1):188-93.",
+        "pmid": "8707977"
+      },
+      {
+        "text": "Karunanithi A, Melath AM, Kayakool S, Raghavan V, Arulvizhi M, Prakash N. Gingival tissue response with light-cure dressing and a non-eugenol dressing after periodontal flap surgery – a comparative study. Indian J Dent Res 2026;36(3):316-320.",
+        "pmid": "41481036"
+      },
+      {
+        "text": "Mounssif I, Bentivogli V, Rendón A, et al. Patient-reported outcome measures after periodontal surgery. Clin Oral Investig 2023;27(12):7715-7724.",
+        "pmid": "37940683"
+      },
+      {
+        "text": "Hu ML, Zheng G, Lin H, Yang M, Zhang YD, Han JM. Network meta-analysis on the effect of desensitizing toothpastes on dentine hypersensitivity. J Dent 2019;88:103170.",
+        "pmid": "31325467"
+      }
+    ]
+  },
+  {
+    "id": "ep03",
+    "no": "03",
+    "title": "牙周迷思大破解：居家清潔篇",
+    "ytTitle": "沖牙機能取代牙間刷嗎？油漱口、漱口水有沒有用？",
+    "category": "myths",
+    "alsoIn": [
+      "homecare"
+    ],
+    "journey": [
+      "in-treatment",
+      "after"
+    ],
+    "tags": [
+      "沖牙機",
+      "牙間刷",
+      "油漱口",
+      "漱口水"
+    ],
+    "summary": "沖牙機可以取代牙間刷嗎？油漱口對牙周有沒有幫助？漱口水漱一漱，可以不刷牙嗎？這集整理國際期刊的研究，用三個燈號告訴您：哪些可以取代、哪些只能輔助、哪些目前證據不足。",
+    "related": [
+      "ep01"
+    ],
+    "status": "published",
+    "youtubeId": "XRNBMs4L16s",
+    "duration": "四分四十八秒",
+    "thumb": "assets/thumbs/ep03.jpg",
+    "keyPoints": [
+      "牙縫清潔，牙間刷是主角，沖牙機當幫手。",
+      "油漱口目前證據不足，不能代替刷牙和清牙縫。",
+      "漱口水是輔助，刷牙一次都不能省；有些漱口水用久了可能染色、味覺改變或刺痛，不舒服請先停用、問醫師。"
+    ],
+    "tip": "",
+    "handout": "",
+    "reviewed": "",
+    "references": [
+      {
+        "text": "Worthington HV, MacDonald L, Poklepovic Pericic T, et al. Home use of interdental cleaning devices, in addition to toothbrushing, for preventing and controlling periodontal diseases and dental caries. Cochrane Database Syst Rev 2019;CD012018.",
+        "pmid": "30968949"
+      },
+      {
+        "text": "Kotsakis GA, Lian Q, Ioannou AL, Michalowicz BS, John MT, Chu H. A network meta-analysis of interproximal oral hygiene methods in the reduction of clinical indices of inflammation. J Periodontol 2018;89(5):558-70.",
+        "pmid": "29520910"
+      },
+      {
+        "text": "Chapple IL, Van der Weijden F, Doerfer C, et al. Primary prevention of periodontitis: managing gingivitis. J Clin Periodontol 2015;42 Suppl 16:S71-6.",
+        "pmid": "25639826"
+      },
+      {
+        "text": "Sanz M, Herrera D, Kebschull M, et al. Treatment of stage I-III periodontitis—The EFP S3 level clinical practice guideline. J Clin Periodontol 2020;47 Suppl 22:4-60.",
+        "pmid": "32383274"
+      },
+      {
+        "text": "Peng TR, Cheng HY, Wu TW, Ng BK. Effectiveness of oil pulling for improving oral health: a meta-analysis. Healthcare (Basel) 2022;10(10):1991.",
+        "pmid": "36292438"
+      },
+      {
+        "text": "Jong FJX, Ooi DJ, Teoh SL. The effect of oil pulling in comparison with chlorhexidine and other mouthwash interventions in promoting oral health: a systematic review and meta-analysis. Int J Dent Hyg 2024;22(1):78-94.",
+        "pmid": "37635453"
+      },
+      {
+        "text": "Pitcher GR, Newman HN, Strahan JD. Access to subgingival plaque by disclosing agents using mouthrinsing and direct irrigation. J Clin Periodontol 1980;7(4):300-8.",
+        "pmid": "6936408"
+      },
+      {
+        "text": "Kim JY, Jung JW, Choi JC, et al. Recurrent lipoid pneumonia associated with oil pulling. Int J Tuberc Lung Dis 2014;18(2):251-2.",
+        "pmid": "24429325"
+      },
+      {
+        "text": "Kuroyama M, Kagawa H, Kitada S, et al. Exogenous lipoid pneumonia caused by repeated sesame oil pulling: a report of two cases. BMC Pulm Med 2015;15:135.",
+        "pmid": "26518258"
+      },
+      {
+        "text": "Wong CF, Yan SW, Wong WM, Ho RSL. Exogenous lipoid pneumonia associated with oil pulling: report of two cases. Monaldi Arch Chest Dis 2018;88(3):922.",
+        "pmid": "30203635"
+      },
+      {
+        "text": "Gunsolley JC. A meta-analysis of six-month studies of antiplaque and antigingivitis agents. J Am Dent Assoc 2006;137(12):1649-57.",
+        "pmid": "17138709"
+      },
+      {
+        "text": "Figuero E, Herrera D, Tobías A, et al. Efficacy of adjunctive anti-plaque chemical agents in managing gingivitis: a systematic review and network meta-analyses. J Clin Periodontol 2019;46(7):723-39.",
+        "pmid": "31058336"
+      },
+      {
+        "text": "Socransky SS, Haffajee AD. Dental biofilms: difficult therapeutic targets. Periodontol 2000 2002;28:12-55.",
+        "pmid": "12013340"
+      },
+      {
+        "text": "James P, Worthington HV, Parnell C, et al. Chlorhexidine mouthrinse as an adjunctive treatment for gingival health. Cochrane Database Syst Rev 2017;3(3):CD008676.",
+        "pmid": "28362061"
+      },
+      {
+        "text": "Windhorst ER, Joosstens M, van der Sluijs E, Slot DE. The effect of cetylpyridinium chloride compared to chlorhexidine mouthwash on scores of plaque and gingivitis: a systematic review and meta-analyses. Int J Dent Hyg 2025;23(4):665-81.",
+        "pmid": "40530503"
+      }
+    ]
+  },
+  {
+    "id": "ep04",
+    "no": "04",
+    "title": "植牙大解析",
+    "ytTitle": "植牙前要知道什麼？流程、風險與保養一次看懂",
+    "category": "implant",
+    "alsoIn": [],
+    "journey": [
+      "implant"
+    ],
+    "tags": [
+      "植牙",
+      "骨整合",
+      "植體周圍炎",
+      "定期回診"
+    ],
+    "summary": "缺了牙，醫師說可以植牙。植牙前要準備什麼？手術怎麼進行？植牙以後會不會壞？這支影片帶您認識植牙。",
+    "related": [
+      "ep01",
+      "ep05"
+    ],
+    "status": "published",
+    "youtubeId": "VFgVJG52CRY",
+    "duration": "五分二十五秒",
+    "thumb": "assets/thumbs/ep04.jpg",
+    "keyPoints": [
+      "植牙前，先把牙周病治療穩定，也盡量戒菸、控制好血糖。",
+      "植體不會蛀牙，但會發炎。每天認真清潔，醫師會教您適合的清潔工具。",
+      "植牙後一樣要定期回診，檢查植體周圍有沒有流血、骨頭有沒有變化。"
+    ],
+    "tip": "",
+    "handout": "",
+    "reviewed": "",
+    "references": [
+      {
+        "text": "Berglundh T, Armitage G, Araujo MG, et al. Peri-implant diseases and conditions: Consensus report of workgroup 4 of the 2017 World Workshop. J Clin Periodontol 2018;45 Suppl 20:S286–S291.",
+        "pmid": "29926491"
+      },
+      {
+        "text": "Buser D, Sennerby L, De Bruyn H. Modern implant dentistry based on osseointegration: 50 years of progress, current trends and open questions. Periodontol 2000 2017.",
+        "pmid": "28000280"
+      },
+      {
+        "text": "Ivanovski S, Lee R. Comparison of peri-implant and periodontal marginal soft tissues in health and disease. Periodontol 2000 2017;76(1):116–130.",
+        "pmid": "29193334"
+      },
+      {
+        "text": "Iqbal MK, Kim S. For teeth requiring endodontic treatment… Int J Oral Maxillofac Implants 2007;22 Suppl:96–116.",
+        "pmid": "18437793"
+      },
+      {
+        "text": "Pjetursson et al. Clin Oral Implants Res 2007.",
+        "pmid": "17594374"
+      },
+      {
+        "text": "Herrera D, Berglundh T, Schwarz F, et al. Prevention and treatment of peri-implant diseases—The EFP S3 level clinical practice guideline. J Clin Periodontol 2023;50 Suppl 26:4–76.",
+        "pmid": "37271498"
+      },
+      {
+        "text": "Annunziata et al. J Periodontal Res 2024.",
+        "pmid": "39466662"
+      },
+      {
+        "text": "Carra et al. J Clin Periodontol 2021.",
+        "pmid": "34775625"
+      },
+      {
+        "text": "Smith et al. Chronic periodontitis and implant dentistry. Periodontol 2000 2017.",
+        "pmid": "28429486"
+      },
+      {
+        "text": "Calciolari et al. Clin Oral Implants Res 2026.",
+        "pmid": "41776304"
+      },
+      {
+        "text": "Lv et al. Clin Oral Implants Res 2022.",
+        "pmid": "36251562"
+      },
+      {
+        "text": "Al-Nawas et al. Group 3 ITI Consensus Report. Clin Oral Implants Res 2023.",
+        "pmid": "37750518"
+      },
+      {
+        "text": "Ruggiero et al. AAOMS position paper on MRONJ—2014 update. J Oral Maxillofac Surg 2014.",
+        "pmid": "25234529"
+      },
+      {
+        "text": "Sanz et al. Periodontitis and cardiovascular diseases: Consensus report. J Clin Periodontol 2020.",
+        "pmid": "32011025"
+      },
+      {
+        "text": "Mandelaris GA, et al. J Periodontol 2017;88(10):939–945.",
+        "pmid": "28967333"
+      },
+      {
+        "text": "Tan WL, Wong TL, Wong MC, Lang NP. Clin Oral Implants Res 2012;23 Suppl 5:1–21.",
+        "pmid": "22211303"
+      },
+      {
+        "text": "Derks et al. Peri-implantitis – onset and pattern of progression. J Clin Periodontol 2016;43(4):383–388.",
+        "pmid": "26900869"
+      }
+    ]
+  },
+  {
+    "id": "ep05",
+    "no": "05",
+    "title": "糖尿病與牙周病",
+    "ytTitle": "有糖尿病，看牙要注意什麼？糖化血色素、用藥與看牙準備",
+    "category": "systemic",
+    "alsoIn": [],
+    "journey": [
+      "risk"
+    ],
+    "tags": [
+      "糖尿病",
+      "糖化血色素",
+      "看牙準備"
+    ],
+    "summary": "有糖尿病，跟牙齒有什麼關係？牙周病被稱為糖尿病的「第六大併發症」，兩者會互相影響。這支影片帶您認識糖尿病和牙周病的關係，還有看牙前要注意的事。",
+    "related": [
+      "ep01",
+      "ep04"
+    ],
+    "status": "published",
+    "youtubeId": "0jVSzNDqu3A",
+    "duration": "四分五十二秒",
+    "thumb": "assets/thumbs/ep05.jpg",
+    "keyPoints": [
+      "糖尿病和牙周病會互相影響，牙周病是糖尿病的第六大併發症。",
+      "把血糖控制好、把牙周治療好，兩邊都會受益；治療後依醫師安排定期回診。",
+      "看牙時告訴牙醫您有糖尿病；看新陳代謝科時，也告訴醫師您在治療牙周。"
+    ],
+    "tip": "看牙那天：藥照常吃、飯照常吃，不要空腹來；有打胰島素的人請隨身帶糖果或含糖飲料，治療中不舒服請馬上告訴我們。",
+    "handout": "",
+    "reviewed": "",
+    "references": [
+      {
+        "text": "彰化基督教醫院。《糖齒共顧 全人照護 專業照護指引手冊》（醫事人員版）。衛生福利部「糖尿病醫牙全人共照試辦計畫」補助。",
+        "pmid": ""
+      },
+      {
+        "text": "衛生福利部中央健康保險署。一一五年度全民健康保險牙醫門診總額特定疾病病人牙科就醫安全計畫。",
+        "pmid": "",
+        "url": "https://www.nhi.gov.tw/ch/dl-96784-1e38a12bfdbc442f9f5191d105d46b96-1.pdf"
+      },
+      {
+        "text": "Löe H. Periodontal disease. The sixth complication of diabetes mellitus. Diabetes Care 1993;16(1):329–34.",
+        "pmid": "8422804"
+      },
+      {
+        "text": "Sanz M, Ceriello A, Buysschaert M, et al. Scientific evidence on the links between periodontal diseases and diabetes: Consensus report and guidelines of the joint workshop on periodontal diseases and diabetes by the IDF and the EFP. J Clin Periodontol 2018;45(2):138–149（線上刊登 2017）.",
+        "pmid": "29280174"
+      },
+      {
+        "text": "Genco RJ, Borgnakke WS. Diabetes as a potential risk for periodontitis: association studies. Periodontol 2000 2020;83(1):40–45.",
+        "pmid": "32385881"
+      },
+      {
+        "text": "Preshaw PM, Alba AL, Herrera D, et al. Periodontitis and diabetes: a two-way relationship. Diabetologia 2012;55(1):21–31.",
+        "pmid": "22057194"
+      },
+      {
+        "text": "Nascimento GG, Leite FRM, Vestergaard P, Scheutz F, López R. Does diabetes increase the risk of periodontitis? A systematic review and meta-regression analysis of longitudinal prospective studies. Acta Diabetol 2018;55(7):653–667.",
+        "pmid": "29502214"
+      },
+      {
+        "text": "Simpson TC, Clarkson JE, Worthington HV, et al. Treatment of periodontitis for glycaemic control in people with diabetes mellitus. Cochrane Database Syst Rev 2022;4(4):CD004714.",
+        "pmid": "35420698"
+      },
+      {
+        "text": "Hsu YT, Nair M, Angelov N, et al. Impact of diabetes on clinical periodontal outcomes following non-surgical periodontal therapy. J Clin Periodontol 2019;46(2):206–217.",
+        "pmid": "30536853"
+      },
+      {
+        "text": "Herrera D, Sanz M, Shapira L, et al. Association between periodontal diseases and cardiovascular diseases, diabetes and respiratory diseases: Consensus report of the Joint Workshop by the EFP and WONCA Europe. J Clin Periodontol 2023;50(6):819–841.",
+        "pmid": "36935200"
+      },
+      {
+        "text": "Graves DT, Ding Z, Yang Y. The impact of diabetes on periodontal diseases. Periodontol 2000 2020;82(1):214–224.",
+        "pmid": "31850631"
+      },
+      {
+        "text": "Polak D, Sanui T, Nishimura F, Shapira L. Diabetes as a risk factor for periodontal disease—plausible mechanisms. Periodontol 2000 2020;83(1):46–58.",
+        "pmid": "32385872"
+      },
+      {
+        "text": "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: Framework and proposal of a new classification and case definition. J Clin Periodontol 2018;45 Suppl 20:S149–S161.",
+        "pmid": "29926495"
+      },
+      {
+        "text": "Bandyopadhyay D, Marlow NM, Fernandes JK, Leite RS. Periodontal disease progression and glycaemic control among Gullah African Americans with type-2 diabetes. J Clin Periodontol 2010;37(6):501–9.",
+        "pmid": "20507373"
+      },
+      {
+        "text": "Tsai C, Hayes C, Taylor GW. Glycemic control of type 2 diabetes and severe periodontal disease in the US adult population. Community Dent Oral Epidemiol 2002;30(3):182–92.",
+        "pmid": "12000341"
+      },
+      {
+        "text": "Taylor GW, Burt BA, Becker MP, et al. Non-insulin dependent diabetes mellitus and alveolar bone loss progression over 2 years. J Periodontol 1998;69(1):76–83.",
+        "pmid": "9527565"
+      },
+      {
+        "text": "American Diabetes Association Professional Practice Committee. 16. Diabetes Care in the Hospital: Standards of Care in Diabetes—2026. Diabetes Care 2026;49(Suppl 1):S339–S355.",
+        "pmid": "41358892"
+      },
+      {
+        "text": "Corbella S, Alberti A, Donos N, et al. Efficacy of different protocols of non-surgical periodontal therapy in patients with type 2 diabetes: A systematic review and meta-analysis. J Periodontal Res 2025;60(5):417–437（線上刊登 2024）.",
+        "pmid": "39343708"
+      }
+    ]
+  },
+  {
+    "id": "plan-surgery",
+    "title": "牙周手術與再生手術",
+    "category": "treatment",
+    "journey": [
+      "in-treatment"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "plan-maintenance",
+    "title": "為什麼要定期回診",
+    "category": "aftercare",
+    "journey": [
+      "after"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "plan-brushing",
+    "title": "正確刷牙方法",
+    "category": "homecare",
+    "journey": [
+      "in-treatment",
+      "after"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "plan-interdental",
+    "title": "牙間刷與牙線",
+    "category": "homecare",
+    "journey": [
+      "in-treatment",
+      "after"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "plan-smoking",
+    "title": "抽菸與牙周病",
+    "category": "systemic",
+    "journey": [
+      "risk"
+    ],
+    "status": "planned"
+  }
+]
