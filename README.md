@@ -1,46 +1,54 @@
-# 三總牙周小教室網站（雛形）
+# 三總牙周小教室網站
 
-靜態網站，不需要伺服器，之後放 GitHub Pages。
+三軍總醫院牙周病科「三總牙周小教室」病人衛教影片網站。靜態網站，用 GitHub Pages 發布。
 
-## 使用方式
+網址：https://orz629.github.io/perio-classroom-site/
+
+## 怎麼更新
 
 ```
-node build.js        # 讀 data/*.json → 產生 public/
+npm install      # 第一次才需要（產生 QR code 用）
+node build.js    # 讀 data/*.json → 產生 docs/
 ```
 
-直接用瀏覽器打開 `public/index.html` 就能看。
+改完後把 `docs/` 一起 commit、推上 main，GitHub Pages 會自動更新（約一到兩分鐘）。
 
 ## 檔案
 
-- `data/site.json`：站名、免責聲明、正式網址（`baseUrl`，上線後填，分享預覽圖需要）
-- `data/categories.json`：六大主題分類
-- `data/journey.json`：「您現在是哪一種情況？」四個入口
-- `data/episodes.json`：每集一筆
-- `src/style.css`：樣式（色票沿用影片）
-- `assets/`：院徽、各集封面縮圖
+| 位置 | 內容 |
+|---|---|
+| `data/site.json` | 站名、正式網址（`baseUrl`，QR code 與分享預覽圖用）、免責聲明、製作與版權標示 |
+| `data/categories.json` | 六個主題分類 |
+| `data/journey.json` | 首頁「您現在是哪一種情況？」六個入口 |
+| `data/episodes.json` | 每集一筆 |
+| `src/style.css` | 樣式（色票沿用影片） |
+| `assets/` | 院徽、各集封面縮圖（封面 a 吉祥物版，縮成 1280 寬） |
+| `build.js` | 產生器 |
+| `docs/` | 產生出來的網站（GitHub Pages 發布這個資料夾，不要手改） |
 
 ## 新增一集
 
-在 `data/episodes.json` 加一筆：
+1. 封面：把 perio-classroom 該集 `thumbnail/封面_a.jpg` 縮成 1280×720，存成 `assets/thumbs/<id>.jpg`。
+2. 在 `data/episodes.json` 加一筆（或把原本 `planned` 那筆改掉）：
 
 | 欄位 | 說明 |
 |---|---|
-| `id`、`no`、`title` | 編號與標題（`no` 合併回 main、定好集數後再填） |
-| `status` | `planned`＝規劃中（只顯示佔位卡、不產生影片頁）；`production`＝製作中或已完成 |
-| `draft` | `true` 時影片頁顯示「內容草稿・待醫師確認」 |
+| `id`、`no`、`title` | 網址代號、集數（兩位數字，頁面顯示「第五集」）、網站上的短標題 |
+| `ytTitle` | YouTube 標題（備查） |
+| `status` | `published` 已上架；`planned` 規劃中（只顯示灰卡，不產生影片頁） |
 | `category` / `alsoIn` | 主分類／同時出現在哪些分類 |
-| `journey` | 出現在哪些「情況」入口（依陣列順序就是建議觀看順序） |
-| `youtubeId` | 上傳 YouTube 後填入；空白時顯示佔位框 |
-| `summary`、`keyPoints` | 一句話摘要、三到五點重點（需醫師確認） |
-| `handout` | 可列印單張 PDF 路徑；空白時顯示佔位框 |
-| `reviewed` | 最後審閱日期 |
-| `related` | 指定「接著看」的影片 id；空白時自動找同分類 |
-| `references` | 參考文獻與 PMID（取自該集 01 內容審查報告） |
+| `journey` | 出現在哪些「情況」入口（依 episodes.json 順序排列） |
+| `youtubeId` | YouTube 影片代號（youtu.be/ 後面那串） |
+| `duration` | 片長，國字 |
+| `summary`、`keyPoints` | 摘要與三個重點，取自該集 YouTube 上架素材的說明欄 |
+| `tip` | 額外提醒（選填，例如第五集的「看牙那天」） |
+| `related` | 「接著看」的影片 id |
+| `handout` | 可列印單張 PDF 路徑（選填；空白就不顯示） |
+| `reviewed` | 最後審閱日期（選填；空白就不顯示） |
+| `references` | 參考文獻，取自該集 01 內容審查報告；`pmid` 或 `url` |
 
-內容含「（佔位）」的文字會以灰底斜體顯示，方便辨認還沒填的地方。
+3. `node build.js`，檢查後 commit、推上去。
 
-## 尚待處理
+## 版權
 
-- 正式網址確定後，產生真正的 QR code（`qr.html`）
-- 科部介紹、隱私聲明文字
-- 每集摘要、重點、單張 PDF、審閱日期
+目前頁尾與 YouTube 說明欄一致，標示「© 2026 三軍總醫院牙周病科」。著作授權同意書簽署後，改 `data/site.json` 的 `copyright`，並同步改 perio-classroom 的 `brand/brand.js` 與各集上架素材。
