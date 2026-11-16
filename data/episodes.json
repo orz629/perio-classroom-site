@@ -19,6 +19,7 @@
     "summary": "刷牙流血、牙齦紅腫、覺得牙齒好像變長了？這些都可能是牙周病的警訊。這支影片帶您認識牙周病，以及牙周病科怎麼一步一步幫您治療。",
     "related": [
       "ep02",
+      "ep06",
       "ep03"
     ],
     "status": "published",
@@ -560,13 +561,119 @@
     "status": "planned"
   },
   {
-    "id": "plan-maintenance",
+    "id": "ep06",
+    "no": "06",
     "title": "為什麼要定期回診",
+    "ytTitle": "牙周病會復發嗎？治療後定期回診的重要性",
     "category": "aftercare",
+    "alsoIn": [],
     "journey": [
       "after"
     ],
-    "status": "planned"
+    "tags": [
+      "定期回診",
+      "牙周維護",
+      "復發"
+    ],
+    "summary": "牙周病治療完成了，為什麼還要一直回診？牙周病是需要長期控制的慢性病，治好了也可能復發。這支影片帶您了解回診在做什麼、多久要回來一次，還有回診之間您可以怎麼做。",
+    "related": [
+      "ep01",
+      "ep03"
+    ],
+    "status": "published",
+    "youtubeId": "_ru2MtiApjA",
+    "duration": "四分二十四秒",
+    "thumb": "assets/thumbs/ep06.jpg",
+    "keyPoints": [
+      "牙周病治好了，也可能復發，維護是一輩子的事。",
+      "每天的清潔，加上定期回診，兩個缺一不可。",
+      "回診的間隔依您的狀況安排，在三總最長不超過三個月；有狀況，就提早回來。"
+    ],
+    "tip": "這些狀況請提早回來：刷牙一直流血、牙齦腫起來或流膿、牙齒變鬆、咬東西會痛、塞牙縫變嚴重。請打電話回牙周病科或提早掛號；晚上或假日牙齦腫痛得很厲害，可以先到急診。",
+    "handout": "",
+    "reviewed": "",
+    "references": [
+      {
+        "text": "Nyman 1975. Effect of professional tooth cleaning on healing after periodontal surgery. J Clin Periodontol 2(2):80–86.",
+        "pmid": "1094035"
+      },
+      {
+        "text": "Hirschfeld & Wasserman 1978. A long-term survey of tooth loss in 600 treated periodontal patients. J Periodontol 49(5):225–237.",
+        "pmid": "277674"
+      },
+      {
+        "text": "Axelsson & Lindhe 1981. Effect of controlled oral hygiene procedures … Results after 6 years. J Clin Periodontol 8(3):239–248.",
+        "pmid": "6947990"
+      },
+      {
+        "text": "Ramfjord 1982. Oral hygiene and maintenance of periodontal support. J Periodontol 53(1):26–30.",
+        "pmid": "6948947"
+      },
+      {
+        "text": "Becker 1984. Periodontal treatment without maintenance. J Periodontol 55(9):505–509.",
+        "pmid": "6592322"
+      },
+      {
+        "text": "Wilson 1984. Compliance with maintenance therapy in a private periodontal practice. J Periodontol 55(8):468–473.",
+        "pmid": "6384465"
+      },
+      {
+        "text": "Lindhe & Nyman 1984. Long-term maintenance of patients treated for advanced periodontal disease. J Clin Periodontol 11(8):504–514.",
+        "pmid": "6384275"
+      },
+      {
+        "text": "Lang 1990. Absence of bleeding on probing. An indicator of periodontal stability. J Clin Periodontol 17(10):714–721.",
+        "pmid": "2262585"
+      },
+      {
+        "text": "Lang & Tonetti 2003. Periodontal risk assessment (PRA) for patients in SPT. Oral Health Prev Dent 1(1):7–16.",
+        "pmid": "15643744"
+      },
+      {
+        "text": "Axelsson 2004. The long-term effect of a plaque control program … 30 years. J Clin Periodontol 31(9):749–757.",
+        "pmid": "15312097"
+      },
+      {
+        "text": "Sanz 2015. Effect of PMPR on secondary prevention of periodontitis (11th European Workshop). J Clin Periodontol 42 Suppl 16:S214–S220.",
+        "pmid": "25626357"
+      },
+      {
+        "text": "Lee 2015. Impact of patient compliance on tooth loss during SPT. J Dent Res 94(6):777–786.",
+        "pmid": "25818586"
+      },
+      {
+        "text": "Farooqi 2015. Appropriate recall interval for periodontal maintenance. J Evid Based Dent Pract 15(4):171–181.",
+        "pmid": "26698003"
+      },
+      {
+        "text": "Manresa 2018. Supportive periodontal therapy for maintaining the dentition. Cochrane Database Syst Rev CD009376.",
+        "pmid": "29291254"
+      },
+      {
+        "text": "Ramseier 2019. Time between recall visits and residual probing depths predict long-term stability. J Clin Periodontol 46(2):218–230.",
+        "pmid": "30499586"
+      },
+      {
+        "text": "Amerio 2019. Compliance with supportive periodontal/peri-implant therapy. J Clin Periodontol 47(1):81–100.",
+        "pmid": "31562778"
+      },
+      {
+        "text": "Sanz 2020. Treatment of stage I–III periodontitis — EFP S3 guideline. J Clin Periodontol 47 Suppl 22:4–60.",
+        "pmid": "32383274"
+      },
+      {
+        "text": "Campos 2021. Effects of patient compliance in SPT on tooth loss. J Int Acad Periodontol 23(1):17–30.",
+        "pmid": "33512339"
+      },
+      {
+        "text": "Carvalho 2021. Predictors of tooth loss during long-term periodontal maintenance. J Clin Periodontol 48(8):1019–1036.",
+        "pmid": "33998031"
+      },
+      {
+        "text": "Rattu 2023. Stable and successfully treated periodontitis … tooth loss within SPC. J Clin Periodontol 50(10):1371–1389.",
+        "pmid": "37402624"
+      }
+    ]
   },
   {
     "id": "plan-brushing",
