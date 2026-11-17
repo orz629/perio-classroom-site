@@ -460,6 +460,7 @@
     ],
     "summary": "有糖尿病，跟牙齒有什麼關係？牙周病被稱為糖尿病的「第六大併發症」，兩者會互相影響。這支影片帶您認識糖尿病和牙周病的關係，還有看牙前要注意的事。",
     "related": [
+      "ep07",
       "ep01",
       "ep04"
     ],
@@ -696,12 +697,119 @@
     "status": "planned"
   },
   {
-    "id": "plan-smoking",
+    "id": "ep07",
+    "no": "07",
     "title": "抽菸與牙周病",
+    "ytTitle": "抽菸的人牙齦比較不會流血？吸菸、電子煙、加熱菸與牙周病",
     "category": "systemic",
+    "alsoIn": [],
     "journey": [
       "risk"
     ],
-    "status": "planned"
+    "tags": [
+      "抽菸",
+      "戒菸",
+      "電子煙",
+      "加熱菸",
+      "牙齦流血"
+    ],
+    "summary": "抽菸只會讓牙齒變黃嗎？其實吸菸也會傷害撐住牙齒的牙齦和骨頭，還會讓牙齦比較不容易流血，把牙周病的警訊藏起來。這集帶您了解吸菸怎麼影響牙周、電子煙和加熱菸是不是比較好，還有戒菸可以到哪裡找幫忙。",
+    "related": [
+      "ep05",
+      "ep04",
+      "ep01"
+    ],
+    "status": "published",
+    "youtubeId": "FcpmYIC1dSk",
+    "duration": "四分八秒",
+    "thumb": "assets/thumbs/ep07.jpg",
+    "keyPoints": [
+      "吸菸會讓牙周病更容易發生、更嚴重，還會把流血的警訊藏起來。",
+      "吸菸會讓治療的效果打折扣；換成電子煙、加熱菸，也不能說對牙周沒有傷害。",
+      "戒菸什麼時候都不嫌晚。"
+    ],
+    "tip": "想戒菸，可以找誰？國民健康署免費戒菸專線 0800-636363；三總家庭醫學科戒菸門診，看牙時告訴牙周病科醫師您有吸菸，我們可以幫您轉介。有吃檳榔的話，也建議一起戒掉。",
+    "handout": "",
+    "reviewed": "",
+    "references": [
+      {
+        "text": "Tomar SL, Asma S. Smoking-attributable periodontitis in the United States: findings from NHANES III. J Periodontol 2000;71(5):743–51.",
+        "pmid": "10872955"
+      },
+      {
+        "text": "Leite FRM, Nascimento GG, Scheutz F, et al. Effect of smoking on periodontitis: a systematic review and meta-regression. Am J Prev Med 2018;54(6):831–841.",
+        "pmid": "29656920"
+      },
+      {
+        "text": "Chen Z, Kaur G, Kaunein N, et al. The effect of tobacco smoking on tooth loss: a systematic review and meta-analysis. J Clin Periodontol 2026;53(5):784–805.",
+        "pmid": "41839221"
+      },
+      {
+        "text": "Ye F, Jiang Q, Zhang S. Environmental tobacco smoke exposure and periodontitis in non-smokers: a systematic review and meta-analysis. BMC Oral Health 2026;26(1).",
+        "pmid": "41772555"
+      },
+      {
+        "text": "Dietrich T, Bernimoulin JP, Glynn RJ. The effect of cigarette smoking on gingival bleeding. J Periodontol 2004;75(1):16–22.",
+        "pmid": "15025212"
+      },
+      {
+        "text": "Nair P, Sutherland G, Palmer RM, et al. Gingival bleeding on probing increases after quitting smoking. J Clin Periodontol 2003;30(5):435–7.",
+        "pmid": "12716336"
+      },
+      {
+        "text": "Chang J, Meng HW, Lalla E, et al. The impact of smoking on non-surgical periodontal therapy: a systematic review and meta-analysis. J Clin Periodontol 2021;48(1):60–75.",
+        "pmid": "33022758"
+      },
+      {
+        "text": "Kotsakis GA, Javed F, Hinrichs JE, et al. Impact of cigarette smoking on clinical outcomes of periodontal flap surgical procedures: a systematic review and meta-analysis. J Periodontol 2015;86(2):254–63.",
+        "pmid": "25299388"
+      },
+      {
+        "text": "Calciolari E, Corbella S, Dourou M, et al. Tobacco smoking and smoke-free products as risk factors for dental implants: a systematic review. Clin Oral Implants Res 2026;37(3):262–286.",
+        "pmid": "41776304"
+      },
+      {
+        "text": "Reis INRD, do Amaral GCLS, Hassan MA, et al. The influence of smoking on the incidence of peri-implantitis: a systematic review and meta-analysis. Clin Oral Implants Res 2023;34(6):543–554.",
+        "pmid": "36939434"
+      },
+      {
+        "text": "Leite FRM, Nascimento GG, Baake S, et al. Impact of smoking cessation on periodontitis: a systematic review and meta-analysis of prospective longitudinal observational and interventional studies. Nicotine Tob Res 2019;21(12):1600–1608.",
+        "pmid": "30011036"
+      },
+      {
+        "text": "Di Palo MP, Di Spirito F, Giordano F, et al. Periodontal and peri-implant status among users of different inhaled tobacco and nicotine products: a systematic review. Dent J (Basel) 2026;14(9):562.",
+        "pmid": "42782949"
+      },
+      {
+        "text": "Pannuti CM, Silva TED, Aquino SG, et al. E-cigarettes and periodontal health: current evidence and research gaps. Braz Oral Res 2026;40(suppl 1):e064.",
+        "pmid": "42659426"
+      },
+      {
+        "text": "Gould SM, Gilchrist CA, Gaza HD, et al. Effect of vaping on treatment outcomes in patients with gingivitis, periodontitis, and/or peri-implant disease: a systematic review. Clin Exp Dent Res 2026;12(5):e70456.",
+        "pmid": "42743382"
+      },
+      {
+        "text": "Chambrone L, Preshaw PM, Rosa EF, et al. Effects of smoking cessation on the outcomes of non-surgical periodontal therapy: a systematic review and individual patient data meta-analysis. J Clin Periodontol 2013;40(6):607–15.",
+        "pmid": "23590649"
+      },
+      {
+        "text": "Xu H, Gao Z, Liu H, et al. Associations of lifestyle factors with oral cancer risk: an umbrella review. J Stomatol Oral Maxillofac Surg 2025;126(3S):102234.",
+        "pmid": "39862963"
+      },
+      {
+        "text": "菸害防制法（2023 年 3 月 22 日修正施行：電子煙全面禁止）。",
+        "pmid": ""
+      },
+      {
+        "text": "衛生福利部。指定菸品健康風險評估審查進度說明（2025-07-29）。",
+        "pmid": "",
+        "url": "https://mohw.gov.tw/cp-16-83217-1.html"
+      },
+      {
+        "text": "衛生福利部國民健康署。免費戒菸專線 0800-636363。",
+        "pmid": "",
+        "url": "https://mohw.gov.tw/cp-16-21417-1.html"
+      }
+    ]
   }
 ]
