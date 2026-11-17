@@ -111,6 +111,7 @@
     ],
     "summary": "牙周手術後會痛、會腫、有一點血絲，正常嗎？回家以後該怎麼刷牙、漱口、吃東西？這支影片整理牙周手術後的照顧重點。",
     "related": [
+      "ep08",
       "ep01",
       "ep03"
     ],
@@ -553,13 +554,109 @@
     ]
   },
   {
-    "id": "plan-surgery",
+    "id": "ep08",
+    "no": "08",
     "title": "牙周手術與再生手術",
+    "ytTitle": "牙周再生手術能讓骨頭長回來嗎？翻瓣手術與再生手術一次看懂",
     "category": "treatment",
+    "alsoIn": [],
     "journey": [
       "in-treatment"
     ],
-    "status": "planned"
+    "tags": [
+      "牙周手術",
+      "翻瓣手術",
+      "再生手術",
+      "深囊袋"
+    ],
+    "summary": "做完第一階段的牙周治療，醫師建議您做手術，是不是治療失敗了？其實手術是第一階段的延續，目的是把平常清不到的深囊袋清乾淨，也讓您以後比較容易清潔。這支影片帶您了解什麼時候需要手術、翻瓣手術和再生手術在做什麼，以及手術當天要注意的事。",
+    "related": [
+      "ep02",
+      "ep01",
+      "ep06"
+    ],
+    "status": "published",
+    "youtubeId": "XIDP7Fbcmkg",
+    "duration": "四分五十五秒",
+    "thumb": "assets/thumbs/ep08.jpg",
+    "keyPoints": [
+      "手術是為了清乾淨深囊袋裡、平常清不到的地方，也讓您以後比較容易清潔，不是治療失敗。",
+      "再生手術能幫助一部分的骨頭長回來，但要看缺損的形狀，醫師會幫您評估。",
+      "手術的效果，要靠您每天的清潔和定期回診，才能長久維持。"
+    ],
+    "tip": "手術前請主動告訴醫師：有使用抗凝血劑，或有血糖方面的問題，請主動告訴醫師；藥物要不要調整，我們會依照您內科醫師的建議來決定。手術是局部麻醉，不是全身麻醉；手術當天可以照常吃早餐。翻瓣清創手術有健保給付；再生手術目前健保不給付，材料和手術都需要自費，醫師會事先跟您說明。",
+    "handout": "",
+    "reviewed": "",
+    "references": [
+      {
+        "text": "Sanz M, et al. Treatment of stage I–III periodontitis — The EFP S3 level clinical practice guideline. J Clin Periodontol 2020;47 Suppl 22:4–60.",
+        "pmid": "32383274"
+      },
+      {
+        "text": "Sanz-Sánchez I, Montero E, Citterio F, Romano F, Molina A, Aimetti M. Efficacy of access flap procedures compared to subgingival debridement in the treatment of periodontitis. A systematic review and meta-analysis. J Clin Periodontol 2020;47 Suppl 22:282–302.",
+        "pmid": "31970821"
+      },
+      {
+        "text": "Nibali L, Koidou VP, Nieri M, Barbato L, Pagliaro U, Cairo F. Regenerative surgery versus access flap for the treatment of intra-bony periodontal defects: A systematic review and meta-analysis. J Clin Periodontol 2020;47 Suppl 22:320–351.",
+        "pmid": "31860134"
+      },
+      {
+        "text": "Nibali L, Sultan D, Arena C, Pelekos G, Lin GH, Tonetti M. Periodontal infrabony defects: Systematic review of healing by defect morphology following regenerative surgery. J Clin Periodontol 2021;48(1):101–114.",
+        "pmid": "33025619"
+      },
+      {
+        "text": "Stavropoulos A, Bertl K, Spineli LM, Sculean A, Cortellini P, Tonetti M. Medium- and long-term clinical benefits of periodontal regenerative/reconstructive procedures in intrabony defects. J Clin Periodontol 2021;48(3):410–430.",
+        "pmid": "33289191"
+      },
+      {
+        "text": "Wang HL, Hazrati P, Calatrava J, Saleh MS, Alrmali AE. Long-term clinical outcomes of periodontal regeneration of intrabony defects: A systematic review and meta-analysis. Periodontol 2000 2025（Early View，尚無卷期頁碼）.",
+        "pmid": "40931709"
+      },
+      {
+        "text": "Cortellini P, Tonetti MS. Clinical concepts for regenerative therapy in intrabony defects. Periodontol 2000 2015;68(1):282–307.",
+        "pmid": "25867990"
+      },
+      {
+        "text": "Cortellini P, Tonetti MS. Long-term tooth survival following regenerative treatment of intrabony defects. J Periodontol 2004;75(5):672–678.",
+        "pmid": "15212349"
+      },
+      {
+        "text": "Kaldahl WB, Kalkwarf KL, Patil KD, Dyer JK, Bates RE Jr. Evaluation of four modalities of periodontal therapy. Mean probing depth, probing attachment level and recession changes. J Periodontol 1988;59(12):783–793.",
+        "pmid": "3066888"
+      },
+      {
+        "text": "Paternò Holtzman L, Valente NA, Vittorini Orgeas G, Copes L, Discepoli N, Clementini M. Change in clinical parameters after subgingival instrumentation for the treatment of periodontitis and timing of periodontal re-evaluation: A systematic review and meta-analysis. J Clin Periodontol 2024.",
+        "pmid": "38706227"
+      },
+      {
+        "text": "Cortellini P, Buti J, Pini Prato G, Tonetti MS. Periodontal regeneration compared with access flap surgery in human intra-bony defects 20-year follow-up of a randomized clinical trial: tooth retention, periodontitis recurrence and costs. J Clin Periodontol 2017;44(1):58–66.",
+        "pmid": "27736011"
+      },
+      {
+        "text": "Cortellini P, Cortellini S, Bonaccini D, Tonetti MS. Modified minimally invasive surgical technique in human intrabony defects with or without regenerative materials — 10-year follow-up of a randomized clinical trial. J Clin Periodontol 2022;49(6):528–536.",
+        "pmid": "35415940"
+      },
+      {
+        "text": "Lin YH, Gillam DG. The prevalence of root sensitivity following periodontal therapy: a systematic review. Int J Dent 2012;2012:407023.",
+        "pmid": "23193405"
+      },
+      {
+        "text": "von Troil B, Needleman I, Sanz M. A systematic review of the prevalence of root sensitivity following periodontal therapy. J Clin Periodontol 2002;29 Suppl 3:173–177.",
+        "pmid": "12787217"
+      },
+      {
+        "text": "Salvi GE, Stähli A, Schmidt JC, Ramseier CA, Sculean A, Walter C. Adjunctive laser or antimicrobial photodynamic therapy to non-surgical mechanical instrumentation in patients with untreated periodontitis: A systematic review and meta-analysis. J Clin Periodontol 2020;47 Suppl 22:176–198.",
+        "pmid": "31859395"
+      },
+      {
+        "text": "Kotsakis GA, Javed F, Hinrichs JE, Karoussis IK, Romanos GE. Impact of cigarette smoking on clinical outcomes of periodontal flap surgical procedures: a systematic review and meta-analysis. J Periodontol 2015;86(2):254-63.",
+        "pmid": "25299388"
+      },
+      {
+        "text": "Nyman S, Rosling B, Lindhe J. Effect of professional tooth cleaning on healing after periodontal surgery. J Clin Periodontol 1975;2(2):80-6.",
+        "pmid": "1094035"
+      }
+    ]
   },
   {
     "id": "ep06",
