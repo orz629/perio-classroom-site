@@ -22,13 +22,13 @@ node build.js    # 讀 data/*.json → 產生 docs/
 | `data/journey.json` | 首頁「您現在是哪一種情況？」六個入口 |
 | `data/episodes.json` | 每集一筆 |
 | `src/style.css` | 樣式（色票沿用影片） |
-| `assets/` | 院徽、各集封面縮圖（封面 a 吉祥物版，縮成 1280 寬） |
+| `assets/` | 院徽、各集封面縮圖（**封面 b**，縮成 1280 寬；2026-11-18 醫師定案：三總用封面 b，吉祥物版 a 留給南門） |
 | `build.js` | 產生器 |
 | `docs/` | 產生出來的網站（GitHub Pages 發布這個資料夾，不要手改） |
 
 ## 新增一集
 
-1. 封面：把 perio-classroom 該集 `thumbnail/封面_a.jpg` 縮成 1280×720，存成 `assets/thumbs/<id>.jpg`。
+1. 封面：把 perio-classroom 該集 `thumbnail/封面_b.jpg` 縮成 1280×720，存成 `assets/thumbs/<id>.jpg`。
 2. 在 `data/episodes.json` 加一筆（或把原本 `planned` 那筆改掉）：
 
 | 欄位 | 說明 |
